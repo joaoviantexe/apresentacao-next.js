@@ -1,5 +1,5 @@
-# ▶️ [Acesso ao Projeto](https://github.com/joaoviantexe/apresentacao-next.js/blob/main/Engenharia%20Reversa%20Arquitetural%20-%20Next.js.pdf)
-- https://github.com/joaoviantexe/apresentacao-next.js/blob/main/Engenharia%20Reversa%20Arquitetural%20-%20Next.js.pdf
+# ▶️ [Acesso ao Projeto](https://github.com/joaoviantexe/apresentacao-next.js/blob/main/Engenharia%20Reversa%20Arquitetural%20do%20Next.js.pdf)
+- https://github.com/joaoviantexe/apresentacao-next.js/blob/main/Engenharia%20Reversa%20Arquitetural%20do%20Next.js.pdf
 
 # 📝 Descrição da Atividade
 Slides para complementar uma apresentação acadêmica (que tem seu conteúdo funcional de forma independente também) com o intuito de simplificar uma apresentação ao framework Next.js.
